@@ -12,7 +12,7 @@ This project was created for the cs50 2020 course as part of the 'Game' track. I
 * Instructions on how to play:
   * Press '1' to enter the game as Player 1
   * Press '2' to enter the game as Player 2
-  * If you press '1' and do not press '2' then you will be Player 1 and the AI will be Player 2
+  * If you press '1' and do not press '2' then you will be Player 1 and the AI will be Player 2 and vice versa
   * Press 'e' for easy AI
   * Press 'h' for 'not easy' AI
   * You may toggle the difficulty mid-game by pressing the buttons for the respective difficulty you desire.
